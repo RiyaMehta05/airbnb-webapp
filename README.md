@@ -1,1 +1,1 @@
-![Homepage](C:\Users\dhiru\Pictures\Screenshots\img.png)
+![Homepage](/screenshots/img.png)
